@@ -1,3 +1,3 @@
-GRANT SELECT ON mysql.time_zone_name TO cacti_user@localhost;
+GRANT SELECT ON mysql.time_zone_name TO usuario@localhost;
 flush privileges;
 exit
